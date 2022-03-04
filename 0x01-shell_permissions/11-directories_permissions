@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R `stat -c 0x0p+0 .` .
+chmod ugo+x 11-directories_permissions
