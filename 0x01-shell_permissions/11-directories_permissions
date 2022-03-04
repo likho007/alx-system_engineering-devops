@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --reference=. .
+chmod 111 11-directories_permissions
